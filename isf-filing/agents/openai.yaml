@@ -1,0 +1,4 @@
+interface:
+  display_name: "ISF Filing"
+  short_description: "Fill ISF 10+2 forms from shipping documents"
+  default_prompt: "Fill this ISF form using the supplied shipping documents and matching prior ISF examples."
